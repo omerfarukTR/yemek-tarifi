@@ -1,0 +1,2 @@
+# HTML YEMEK TARİFİ ÖDEVİ
+Bu ödevde, öğrendiğimiz HTML bilgilerden öte CSS de kullandım. Gerçek anlamda verimli oldu. Özellikle CSS tarafındaki derslerden sonra daha iyi tasarlanmış sayfalar yapabileceğime inanıyorum. 
